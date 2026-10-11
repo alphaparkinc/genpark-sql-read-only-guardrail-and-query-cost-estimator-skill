@@ -1,0 +1,1 @@
+[project]\nname = "genpark-sql-read-only-guardrail-and-query-cost-estimator-skill"\nversion = "1.0.0"\ndescription = "Validates SQL queries for strict read-only execution and flags high-cost query antipatterns before database dispatch"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
