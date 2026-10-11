@@ -1,0 +1,8 @@
+{
+  "name": "genpark-sql-read-only-guardrail-and-query-cost-estimator-skill",
+  "version": "1.0.0",
+  "description": "Validates SQL queries for strict read-only execution and flags high-cost query antipatterns before database dispatch",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
