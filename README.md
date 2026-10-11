@@ -1,0 +1,1 @@
+# genpark-sql-read-only-guardrail-and-query-cost-estimator-skill\n\nValidates SQL queries for strict read-only execution and flags high-cost query antipatterns before database dispatch.\n\n100% Python Standard Library implementation with zero external dependencies.
