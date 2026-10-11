@@ -1,0 +1,1 @@
+version: 1\nruntime: python\nentrypoint: mcp_server.py\n
