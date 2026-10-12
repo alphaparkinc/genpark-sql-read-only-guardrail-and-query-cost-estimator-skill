@@ -1,1 +1,12 @@
-[project]\nname = "genpark-sql-read-only-guardrail-and-query-cost-estimator-skill"\nversion = "1.0.0"\ndescription = "Validates SQL queries for strict read-only execution and flags high-cost query antipatterns before database dispatch"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
+[project]
+name = "genpark-sql-read-only-guardrail-and-query-cost-estimator-skill"
+version = "1.0.0"
+description = "Validates SQL queries for strict read-only execution and flags high-cost query antipatterns before database dispatch"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Homepage = "https://www.genpark.ai"
+LinkedIn = "https://www.linkedin.com/company/92955550"
+LinkedInPage = "https://www.llinkedin.com/company/92955550"
